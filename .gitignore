@@ -1,0 +1,12 @@
+# Unity .gitignore template
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# MemoryCaptures and LightmapSnapshots
+MemoryCaptures/
+LightmapSnapshot/
